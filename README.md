@@ -8,6 +8,9 @@ Inicialmente la placa adaptadora ATLAS es un proyecto para la placa CYC1000 y la
 
 Mas info y fotos en este [hilo](http://www.forofpga.es/viewtopic.php?f=28&t=376&p=1548#p1548), en su propio [foro](http://www.forofpga.es/viewforum.php?f=240&sid=bd3e070f65599ff111ad0494e4459535) de foroFPGA, en [telegram](https://t.me/CYC1000) o [discord](https://discord.gg/YDdmtwh).
 
+Licensed under Cern OHL
+http://ohwr.org/cernohl
+
 ### Guía rápida
 
 Si ya tienes tu CYC1000, una raspberry Pi, y la placa ATLAS (la puedes conseguir en el grupo de [telegram](https://t.me/CYC1000)), sigue esta guía rápida para empezar a trastear. 
