@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CYC10-Board-rescue)(type Legacy)(uri "${KIPRJMOD}/CYC10 Board-rescue.lib")(options "")(descr ""))
+)
